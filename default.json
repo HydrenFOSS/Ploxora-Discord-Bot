@@ -1,7 +1,0 @@
-{
-  "image": "ghcr.io/ma4z-sys/vps_gen_v4:latest",
-  "description": "Default Image of Ploxora VPS Management Dashboard",
-  "name": "Ubuntu:latest with SystemCTL/SSH Tmate",
-  "version": "1.0",
-  "author": "Hydren"
-}

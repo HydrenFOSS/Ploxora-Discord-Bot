@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.11.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^14.22.0",
+    "dotenv": "^17.2.1",
+    "keyv": "^5.5.0"
+  }
+}
